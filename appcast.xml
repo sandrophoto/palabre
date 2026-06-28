@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sandrophoto/palabre/releases/download/v1.1/Palabre-1.1.zip" length="4175497" type="application/octet-stream" sparkle:edSignature="uCXmPOBXem0QArwKFwl2AcKte1FyjdCNq6M7wRZ9R8h4brJVTRLE9QJ53HJckEN++hQ217FbyClrs/R0ovGwAQ=="/>
+            <enclosure url="https://github.com/sandrophoto/palabre/releases/download/v1.1/Palabre-1.1.zip" length="4175497" type="application/octet-stream" sparkle:edSignature="FUUe2OlgPcNbCYsCKnn2oypDXYF0IChLzm3VtJRRhH4vJLK0m7PIpTPLC6PGW0S64gAmQ89qnEjh7QTOQwRtDg=="/>
         </item>
         <item>
             <title>1.0</title>
