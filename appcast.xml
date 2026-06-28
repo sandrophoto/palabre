@@ -3,13 +3,22 @@
     <channel>
         <title>Palabre Pro Plus 3000</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Mon, 29 Jun 2026 00:11:01 +0200</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sandrophoto/palabre/releases/download/v1.1/Palabre-1.1.zip" length="4175497" type="application/octet-stream" sparkle:edSignature="uCXmPOBXem0QArwKFwl2AcKte1FyjdCNq6M7wRZ9R8h4brJVTRLE9QJ53HJckEN++hQ217FbyClrs/R0ovGwAQ=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Fri, 26 Jun 2026 18:41:22 +0200</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sandrophoto/palabre/releases/download/v1.0/Palabre-1.0.zip" length="4122782" type="application/octet-stream" sparkle:edSignature="jeGRiQL0LmcP4pO9DekLd94uZlf+0xho/XwqmOgdl0EbkxgpIX70xCXgFTod/b5wHiKrki8yyoWnWSX5ekzICw=="/>
+            <enclosure url="https://github.com/sandrophoto/palabre/releases/download/v1.1/Palabre-1.0.zip" length="4122782" type="application/octet-stream" sparkle:edSignature="jeGRiQL0LmcP4pO9DekLd94uZlf+0xho/XwqmOgdl0EbkxgpIX70xCXgFTod/b5wHiKrki8yyoWnWSX5ekzICw=="/>
         </item>
     </channel>
 </rss>
