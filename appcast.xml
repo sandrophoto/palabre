@@ -3,13 +3,13 @@
     <channel>
         <title>Palabre Pro Plus 3000</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Mon, 29 Jun 2026 11:57:35 +0200</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.3</title>
+            <pubDate>Wed, 01 Jul 2026 23:15:27 +0200</pubDate>
+            <sparkle:version>1.3</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sandrophoto/palabre/releases/download/v1.2/Palabre-1.2.zip" length="4220508" type="application/octet-stream" sparkle:edSignature="+nFP8bNqK9HGCG1pI+Hb0aUebeVt/x18yISFMpsNpqbQLz99uwCErd6KKKgPNBJBvAdRgr9nrViiP6Buv6AjDQ=="/>
+            <enclosure url="https://github.com/sandrophoto/palabre/releases/download/v1.3/Palabre-1.3.zip" length="4233734" type="application/octet-stream" sparkle:edSignature="tyvPWwdn6ZwcRxtQskw6ybw6VtxGtSlglTLlRpAp6+lXTL91NAgduv//3t55M0lxdBDc2qPVDvmj3OaRkZy4AQ=="/>
         </item>
     </channel>
 </rss>
